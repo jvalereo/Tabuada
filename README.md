@@ -1,4 +1,4 @@
-# Layout
+Layout
 
 # Projeto, Tabuada
 
@@ -13,8 +13,6 @@
 </a>
 
 # Projeto Paralelogramo,  Programação Orientado Objeto  C#
-
-
 
 # Sobre o Projeto
 
