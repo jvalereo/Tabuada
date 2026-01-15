@@ -1,3 +1,5 @@
+# Layout
+
 # Projeto, Tabuada
 
 <a target="_blank">
@@ -7,7 +9,7 @@
 # Logo C#
 
 <a target="_blank">
-<target=_blank><img align="center"  alt="jonas-C#" height ="400" width ="450" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img></target>
+<target=_blank><img align="center"  alt="jonas-C#" height ="300" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img></target>
 </a>
 
 # Projeto Paralelogramo,  Programação Orientado Objeto  C#
